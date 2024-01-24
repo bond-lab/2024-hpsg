@@ -16,7 +16,8 @@
 	      {% for pg in nav %}
 	      <a href="{{ url_for('show', page=pg) }}"
 		 class="nav-item nav-link{% if page == pg %} active{%
-		 endif %}">{{ nav[pg]['name'] }}</a>
+		 endif %} 
+{% if 'desc' in nav[pg] %} title = '{{nav[pg]['desc']}}{% endif %}'">{{ nav[pg]['name'].replace('\n', '<br>')|safe  }}</a>
 	      {% endfor %}
 	    </div>
 	</div>
