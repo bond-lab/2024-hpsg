@@ -19,11 +19,13 @@ nav = {
              'desc':''},
     'workshop': {"name": "Workshop on Formal Approaches\n to Under-resourced Languages",
                  'desc':'Workshop on Formal Approaches to Under-resourced Languages'},
-
+    'wcfp1': {"name": "Call For Papers\n (workshop)",
+             'desc':''},
     'local': {"name":"Local Information",
              'desc':""},
      'hpsg': {"name": "About HPSG",
               'desc':''},
+    
     # 'impact': {"name": "Resources & Impact",
     #          'desc':''},
     # # 'presskit': {"name": "Press Kit",
