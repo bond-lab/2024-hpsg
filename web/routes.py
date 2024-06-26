@@ -15,7 +15,7 @@ current_directory = os.path.abspath(os.path.dirname(__file__))
 nav = {
     'index': {"name":"HPSG 2024",
              'desc':""},
-    'workshop': {"name": "Workshop on Formal Approaches\n to Under-resourced Languages",
+    'workshop': {"name": "Workshop: <font size='-1'>Formal Approaches\n to Under-resourced Languages</font>",
                  'desc':'Workshop on Formal Approaches to Under-resourced Languages'},
     'program': {"name":  "<span class='text-warning'>Program</span>",
              'desc':'Shared program'},
