@@ -17,9 +17,9 @@ nav = {
              'desc':""},
     'workshop': {"name": "Workshop: <font size='-1'>Formal Approaches\n to Under-resourced Languages</font>",
                  'desc':'Workshop on Formal Approaches to Under-resourced Languages'},
-    'program': {"name":  "<span class='text-warning'>Program</span>",
+    'program': {"name":  "Program",
              'desc':'Shared program'},
-    'registration': {"name": "<span class='text-warning'>Registration</span>",
+    'registration': {"name": "Registration",
              'desc':'Details on registration and the fees'},
 
     
@@ -27,19 +27,10 @@ nav = {
              'desc':''},
     'wcfp3': {"name": "Call For Papers\n (workshop)",
              'desc':''},
-    'local': {"name":"<span class='text-warning'>Venue\nLocal Information</span>",
+    'local': {"name":"Venue\nLocal Information",
              'desc':""},
      'hpsg': {"name": "About HPSG",
               'desc':''},
-    
-    # 'impact': {"name": "Resources & Impact",
-    #          'desc':''},
-    # # 'presskit': {"name": "Press Kit",
-    # #          'desc':''},
-    # 'contact': {"name": "Contact",
-    #             'desc':''},
-    #  'watch': {"name": "Watch",
-    #          'desc':''}
 }
 
 
